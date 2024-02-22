@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Akshay M Vijay</h1>
 <h3 align="center">A passionate Golang developer from India</h3>
 <img align="right" src="https://webartdevelopers.com/blog/wp-content/uploads/2021/11/gopher-golang-css-only-animation.gif"/> 
-<p align="left">
 - 💬 Ask me about **Golang**
 
 - 📫 How to reach me **akshayvijay2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Vlw81WjvgVYyCmYi2FUhxpY2v-fVwdz/view?usp=drive_link](https://drive.google.com/file/d/1-Vlw81WjvgVYyCmYi2FUhxpY2v-fVwdz/view?usp=drive_link)
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
